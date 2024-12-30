@@ -1,4 +1,4 @@
-# todos
+# flutter_pokemon_example
 
 A new Flutter project.
 
